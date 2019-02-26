@@ -1,5 +1,5 @@
 # Desafio DSA de Machine Learning
-Neste repositório estarão disponíveis as análises e scripts do desafio mensal de Machine Learning da Data Science Academy.
+Neste repositório estão disponíveis as análises e scripts do desafio mensal de Machine Learning da Data Science Academy.
 
 Os Desafio tem o objetivo de estimular a prática dos conhecimentos obtidos durante os cursos, aumentar o networking com outros alunos e ainda levar algumas premiações como recompensa.
 

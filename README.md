@@ -9,4 +9,5 @@ In each folder you can find informations about each competition, which contains:
 - Input files
 - Kernel Link
 - Jupyter Notebook
+- subsmission file
 - Read.me (Challenge Description)

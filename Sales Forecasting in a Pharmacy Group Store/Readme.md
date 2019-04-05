@@ -11,4 +11,4 @@ was totally unviable.
 
 Therefore, RandomForest was applied to predict Sales Amount causing a possible overfitting due the restrictions above.
 
-Even so, the challenge submission shows an RMSPE (Root Mean Square Percentage Error) = 0.39556. This results represented a 14th place in the competiton among 64 other competitors.
+Even so, the challenge submission shows an RMSPE (Root Mean Square Percentage Error) = 0.39556. This results represented a 14th place in the competiton among 65 other competitors.

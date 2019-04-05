@@ -1,3 +1,6 @@
+# Sales Forecasting in a Pharmacy Group Store
+
+
 In this folder you will find the jupyter notebook I submitted on kaggle.
 
 Kernel Challenge Link: https://www.kaggle.com/arthurgiani/sales-forecasting
